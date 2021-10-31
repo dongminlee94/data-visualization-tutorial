@@ -17,7 +17,7 @@ $ make setup
 1. [Matplotlib](/src/1_matplotlib.ipynb)
 2. [Seaborn](/src/2_seaborn.ipynb)
 3. [PCA](/src/3_pca.ipynb)
-4. [T-SNE](/src/4_tsne.ipynb)
+4. [t-SNE](/src/4_tsne.ipynb)
 5. [UMAP](/src/5_umap.ipynb)
 
 ## References

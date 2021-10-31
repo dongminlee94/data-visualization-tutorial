@@ -14,11 +14,11 @@ $ make setup
 
 ## Outline
 
-0. Data cleaning
-1. Matplotlib
-2. Seaborn
-3. PCA
-4. T-SNE
+1. [Matplotlib](/src/1_matplotlib.ipynb)
+2. [Seaborn](/src/2_seaborn.ipynb)
+3. [PCA](/src/3_pca.ipynb)
+4. [T-SNE](/src/4_tsne.ipynb)
+5. [UMAP](/src/5_umap.ipynb)
 
 ## References
 

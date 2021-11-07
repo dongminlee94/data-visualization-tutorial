@@ -14,11 +14,13 @@ $ make setup
 
 ## Outline
 
-1. [Matplotlib](/src/1_matplotlib.ipynb)
-2. [Seaborn](/src/2_seaborn.ipynb)
-3. [PCA](/src/3_pca.ipynb)
-4. [t-SNE](/src/4_t-sne.ipynb)
-5. [UMAP](/src/5_umap.ipynb)
+If you want to see jupyter notebook files better, please see them in [nbviewer](https://nbviewer.org/github/dongminlee94/data-visualization-tutorial).
+
+1. [Matplotlib](https://nbviewer.org/github/dongminlee94/data-visualization-tutorial/blob/main/src/1_matplotlib.ipynb)
+2. [Seaborn](https://nbviewer.org/github/dongminlee94/data-visualization-tutorial/blob/main/src/2_seaborn.ipynb)
+3. [PCA](https://nbviewer.org/github/dongminlee94/data-visualization-tutorial/blob/main/src/3_pca.ipynb)
+4. [t-SNE](https://nbviewer.org/github/dongminlee94/data-visualization-tutorial/blob/main/src/4_t-sne.ipynb)
+5. [UMAP](https://nbviewer.org/github/dongminlee94/data-visualization-tutorial/blob/main/src/5_umap.ipynb)
 
 ## References
 

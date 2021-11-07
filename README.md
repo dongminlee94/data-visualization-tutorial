@@ -12,7 +12,7 @@ Clone the repository and run one of the following commands.
 $ make setup
 ```
 
-## Outline
+## Contents
 
 If you want to see jupyter notebook files better, please see them in [nbviewer](https://nbviewer.org/github/dongminlee94/data-visualization-tutorial).
 
